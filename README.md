@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbrahamQM
-- 👀 I’m interested in  FullStack Dev
-- 🌱 I’m currently learning  Java, Spring, React, ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  Back-End Dev
+- 🌱 I’m currently learning  Html & Css, Java, Spring, Python, ...
 - 📫 How to reach me  abrahamqm87@gmail.com
 
 <!---
